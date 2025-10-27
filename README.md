@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Net-Abd/Net-Abd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Abdel
 
-Here are some ideas to get you started:
+💻 Passionate about **Networking, Cybersecurity, and Computer Systems**.  
+I use this space to share my projects, labs, and experiments as I grow in the IT field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 I’m currently learning:
+- Cisco networking & routing  
+- Cybersecurity fundamentals  
+- Linux system administration  
+
+---
+
+### 🔭 I’m currently working on:
+- Network automation labs  
+- Security configuration projects  
+
+---
+
+### 👯 I’m looking to collaborate on:
+- Open-source networking or cybersecurity projects  
+
+---
+
+### 📫 How to reach me:
+- Email:abdoulahelquechiaa@gmail.com 
+- LinkedIn:https://www.linkedin.com/in/abdellah-elqechiaa-712047307
+
+---
+
+⚡ **Fun fact:** I love experimenting with network topologies and learning new cybersecurity tools!
